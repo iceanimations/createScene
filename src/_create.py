@@ -16,7 +16,7 @@ import qutil
 
 root_path = osp.dirname(osp.dirname(__file__))
 ui_path = osp.join(root_path, 'ui')
-__title__ = 'Create Scene'
+__title__ = 'Add Characters'
 
 Form, Base = uic.loadUiType(osp.join(ui_path, 'main.ui'))
 class Window(Form, Base):

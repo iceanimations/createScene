@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Add Characters</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLineEdit" name="pathBox">
@@ -60,7 +60,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Create</string>
+     <string>Add</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_2">
